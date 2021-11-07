@@ -523,7 +523,7 @@ void calculator :: positionWidgets(){
 
 As we saw we can do interesting things with Widgets and Layouts
   .So 
-See you in the next practical course with new things 🙂 
+See you in the next practical course with new things 😄 
 
 
 
