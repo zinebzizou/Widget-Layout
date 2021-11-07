@@ -33,9 +33,10 @@ In this practical course we will work on four main projects which are:
 
 * <span style="color:green">Experimenting with QHBOXLayout  </span>
 * <span style="color:green">Nested Layouts </span>
-* <span style="color:green">Bug report Form
+*  <span style="color:green">ug report Form </span> 
+* <span style="color:green">Grid LayoutB
  </span>
-* <span style="color:green">Grid Layout </span>   
+  
 
 
 <br>
