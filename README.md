@@ -151,7 +151,7 @@ void Dialog1 :: placeWidgets()
  * ###     <span style="color:grey">Results  </span>
  
  <p align="center">
-  <img width="400" height="300" src="form1_1.png">
+  <img width="400" height="300" src="form1_1.jpeg">
 </p>
 <br>
 
