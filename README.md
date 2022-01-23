@@ -274,7 +274,7 @@ void Dialog2::placeWidgets(){
 * ###     <span style="color:grey">Results  </span>
 
 <p align="center">
-  <img width="400" height="300" src="form2_2.png">
+  <img width="400" height="300" src="form2_2.jpeg">
 </p>
 
 <br>
@@ -283,7 +283,7 @@ void Dialog2::placeWidgets(){
  The goal is to display the following form :
 
  <p align="center">
-  <img width="400" height="300" src="form3.jpeg">
+  <img width="400" height="300" src="form3.png">
 </p>
 
  <br>
