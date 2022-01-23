@@ -10,7 +10,7 @@
  Widgets can display data and status information, receive user input, and provide a container for other widgets that should be grouped together. A widget that is not embedded in a parent widget is called a window.
 
 <p align="center">
-  <img width="300" height="200" src="widget.png">
+  <img width="400" height="300" src="widget.png">
 </p>
 
 
@@ -23,7 +23,7 @@ The <span style="color:blue">QWidget </span> class provides the basic capability
 Layouts are an elegant and flexible way to automatically arrange child widgets within their container. Each widget reports its size requirements to the layout through the sizeHintand sizePolicy properties, and the layout distributes the available space accordingly.
 
 <p align="center">
-  <img width="300" height="200" src="layout.png">
+  <img width="400" height="300" src="layout.png">
 </p>
 
 
@@ -66,7 +66,7 @@ in order to practice this classes let's have some fun with the following example
 √ The goal is to display the following form :
 
 <p align="center">
-  <img width="300" height="200" src="form1.png">
+  <img width="400" height="300" src="form1.png">
 </p>
 
 
@@ -151,7 +151,7 @@ void Dialog1 :: placeWidgets()
  * ###     <span style="color:grey">Results  </span>
  
  <p align="center">
-  <img width="300" height="200" src="form1_1.png">
+  <img width="400" height="300" src="form1_1.png">
 </p>
 <br>
 
@@ -167,7 +167,7 @@ in order to practice this class let's have some fun with the following form:
 <br>
 
 <p align="center">
-  <img width="300" height="200" src="form2.png">
+  <img width="400" height="300" src="form2.png">
 </p>
 <br>
 
@@ -274,7 +274,7 @@ void Dialog2::placeWidgets(){
 * ###     <span style="color:grey">Results  </span>
 
 <p align="center">
-  <img width="300" height="200" src="form2_2.png">
+  <img width="400" height="300" src="form2_2.png">
 </p>
 
 <br>
