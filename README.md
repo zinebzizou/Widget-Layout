@@ -66,7 +66,7 @@ in order to practice this classes let's have some fun with the following example
 √ The goal is to display the following form :
 
 <p align="center">
-  <img width="400" height="300" src="form1.png">
+  <img width="300" height="200" src="form1.png">
 </p>
 
 
