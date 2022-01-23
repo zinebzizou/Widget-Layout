@@ -167,7 +167,7 @@ in order to practice this class let's have some fun with the following form:
 <br>
 
 <p align="center">
-  <img width="500" height="300" src="form2.png">
+  <img width="600" height="300" src="form2.png">
 </p>
 <br>
 
@@ -283,7 +283,7 @@ void Dialog2::placeWidgets(){
  The goal is to display the following form :
 
  <p align="center">
-  <img width="400" height="300" src="form3.png">
+  <img width="400" height="300" src="form3.jpeg">
 </p>
 
  <br>
