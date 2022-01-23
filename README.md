@@ -23,7 +23,7 @@ The <span style="color:blue">QWidget </span> class provides the basic capability
 Layouts are an elegant and flexible way to automatically arrange child widgets within their container. Each widget reports its size requirements to the layout through the sizeHintand sizePolicy properties, and the layout distributes the available space accordingly.
 
 <p align="center">
-  <img width="400" height="300" src="layout.png">
+  <img width="300" height="200" src="layout.png">
 </p>
 
 
