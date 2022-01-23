@@ -9,8 +9,10 @@
 
  Widgets can display data and status information, receive user input, and provide a container for other widgets that should be grouped together. A widget that is not embedded in a parent widget is called a window.
 
+<p align="center">
+  <img width="300" height="200" src="widget.png">
+</p>
 
-![widget](widget.png)
 
 The <span style="color:blue">QWidget </span> class provides the basic capability to render to the screen, and to handle user input events. All UI elements that Qt provides are either subclasses of QWidget, or are used in connection with a QWidget subclass. Creating custom widgets is done by subclassing QWidget or a suitable subclass and reimplementing the virtual event handlers.
 
@@ -20,7 +22,10 @@ The <span style="color:blue">QWidget </span> class provides the basic capability
 
 Layouts are an elegant and flexible way to automatically arrange child widgets within their container. Each widget reports its size requirements to the layout through the sizeHintand sizePolicy properties, and the layout distributes the available space accordingly.
 
-![layout](layout.png)
+<p align="center">
+  <img width="300" height="200" src="layout.png">
+</p>
+
 
 
 <br>
@@ -60,7 +65,10 @@ in order to practice this classes let's have some fun with the following example
 
 √ The goal is to display the following form :
 
-![form](form1.png)
+<p align="center">
+  <img width="300" height="200" src="form1.png">
+</p>
+
 
 
 
@@ -141,7 +149,10 @@ void Dialog1 :: placeWidgets()
  <br>
 
  * ###     <span style="color:grey">Results  </span>
- ![form](form1_1.jpeg)
+ 
+ <p align="center">
+  <img width="300" height="200" src="form1_1.png">
+</p>
 <br>
 
 <br>
@@ -155,7 +166,9 @@ in order to practice this class let's have some fun with the following form:
 
 <br>
 
-![form](form2.png)
+<p align="center">
+  <img width="300" height="200" src="form2.png">
+</p>
 <br>
 
 
@@ -260,14 +273,18 @@ void Dialog2::placeWidgets(){
 
 * ###     <span style="color:grey">Results  </span>
 
-![form](form2_2.jpeg)
+<p align="center">
+  <img width="300" height="200" src="form2_2.png">
+</p>
 
 <br>
 
 # Bug report Form
  The goal is to display the following form :
 
- ![form](form3.png)
+ <p align="center">
+  <img width="400" height="300" src="form3.png">
+</p>
 
  <br>
  
@@ -395,7 +412,9 @@ void form::positionWidgets(){
 
 
 * ###     <span style="color:grey">Results  </span>
-![form](form3_3.png)
+ <p align="center">
+  <img width="400" height="300" src="form3_3.png">
+</p>
 
 
 <br>
@@ -411,7 +430,9 @@ For our final form, we will visit an imporant layout which is : <span style="col
  √ The goal is to display the following form :
 <br>
 
-![form](form4.png)
+ <p align="center">
+  <img width="400" height="300" src="form4.png">
+</p>
 
 <br>
 
@@ -517,11 +538,22 @@ void calculator :: positionWidgets(){
 <br>
 
 * ###    <span style="color:grey">Results  </span>
-![form](form4_4.png)
+ <p align="center">
+  <img width="400" height="300" src="form4_4.png">
+</p>
 
 <br>
 
-As we saw we can do interesting things with Widgets and Layouts
+
+# Let's Recap! 
+
+* To place widgets on a window, two options are available to us: position them to the nearest pixel (absolute) or position them flexibly in layouts (relative).
+* Positioning in layouts is recommended: the widgets automatically occupy the available space according to the size of the window.
+* There are several types of layouts depending on the organization you want to obtain from the widgets: QVBoxLayout (vertical), QHBoxLayout (horizontal), QGridLayout (in grid), QFormLayout (in form).
+* It is possible to nest layouts between them: a layout can therefore contain another one. This allows us to achieve very precise positioning.
+
+
+ > As we saw we can do interesting things with Widgets and Layouts
   .So 
 See you in the next practical course with new things 😄 
 
